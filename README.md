@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hithik7336
 - 👀 I’m interested in Artificial Intelligence and Full Stack Development.
 - 🌱 I’m currently learning Artificial Intelligence.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Twitter @Hrithik7336, Instagram: @hrithik7336, LinkedIn: Hrithik S.
 
 <!---
